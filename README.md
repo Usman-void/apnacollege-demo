@@ -1,4 +1,4 @@
 # apnacollege-demo
 learning github
 <br>
-Author - Usman Mustafa
+Author - Syed Muhammad Usman Mustafa
